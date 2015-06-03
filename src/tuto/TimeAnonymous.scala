@@ -1,4 +1,6 @@
 
+package tuto
+
 object TimeAnonymous {
  
   def oncePerSecond(callback: () => Unit) {

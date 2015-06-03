@@ -1,4 +1,6 @@
 
+package tuto
+
 object Timer {
   def timeFlies() {
     println("hop... ")

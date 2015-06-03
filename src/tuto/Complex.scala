@@ -1,5 +1,7 @@
 
 
+package tuto
+
 class Complex(real: Double, imaginary: Double) {
   def re: Double = real
   def im(): Double = imaginary

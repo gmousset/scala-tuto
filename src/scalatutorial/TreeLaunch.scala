@@ -1,5 +1,5 @@
 
-package tuto
+package scalatutorial
 
 object TreeLaunch {
   

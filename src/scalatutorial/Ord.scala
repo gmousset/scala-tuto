@@ -1,4 +1,4 @@
-package tuto
+package scalatutorial
 
 trait Ord {
   def < (that: Any) : Boolean

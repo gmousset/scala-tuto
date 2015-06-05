@@ -1,4 +1,4 @@
-package tuto
+package scalatutorial
 
 object HelloWorld {
   def main(args: Array[String]) {

@@ -1,6 +1,6 @@
 
 
-package tuto
+package scalatutorial
 
 class Complex(real: Double, imaginary: Double) {
   def re: Double = real

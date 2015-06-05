@@ -1,5 +1,5 @@
 
-package tuto
+package scalatutorial
 
 abstract class Tree
 case class Sum(l: Tree, r: Tree) extends Tree

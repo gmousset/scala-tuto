@@ -1,5 +1,5 @@
 
-package tuto
+package scalatutorial
 
 import java.util.{Date, Locale}
 import java.text.DateFormat._

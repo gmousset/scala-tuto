@@ -1,4 +1,4 @@
-package tuto
+package scalatutorial
 
 /**
  * @author gwen

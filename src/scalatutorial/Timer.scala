@@ -1,8 +1,11 @@
 
-package tuto
+package scalatutorial
 
-object TimeAnonymous {
- 
+object Timer {
+  def timeFlies() {
+    println("hop... ")
+  }
+  
   def oncePerSecond(callback: () => Unit) {
     while(true) {
       callback()
@@ -11,6 +14,6 @@ object TimeAnonymous {
   }
   
   def main(argv: Array[String]) {
-    oncePerSecond(() => println("hop..."))
+    oncePerSecond(timeFlies)
   }
 }
